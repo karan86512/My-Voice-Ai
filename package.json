@@ -1,0 +1,21 @@
+{
+  "name": "myvoice-ai",
+  "version": "1.0.0",
+  "description": "AI voice cloning and text-to-speech website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.68.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "form-data": "^4.0.6",
+    "multer": "^2.4.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
